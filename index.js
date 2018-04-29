@@ -8,6 +8,7 @@ module.exports = {
     "max-len": 0,
     "no-console": 0,
     "no-undef": 0,
+    "arrow-parens": "as-needed",
     "object-curly-spacing": [
       "error",
       "always"
