@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-v2land",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "https://github.com/v2land/eslint-config-v2land.git",
   "author": "Vincent Chan <cdzos97@gmail.com>",
